@@ -106,35 +106,6 @@ musab-law-school-project
 └── vite.config.ts
 ```
 
----
-
-# 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/rashidaqaiyumi/musab-law-school-project.git
-```
-
-Go to the project folder
-
-```bash
-cd musab-law-school-project
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the project
-
-```bash
-npm run dev
-```
-
----
 
 # 🎯 Future Improvements
 
