@@ -1,2 +1,6 @@
-# musab-law-school-project
-This helps folksbuild their career in law
+----------------------------------------------------------
+               MUSAB LAW SCHOOL
+AI Powered Legal Learning Management System
+
+React • TypeScript • Tailwind • Supabase
+----------------------------------------------------------
